@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="SMAT Designs">
-  <title>SMAT Designs</title>
-  <rect width="512" height="512" rx="96" fill="#050505"/>
-  <text x="256" y="299" text-anchor="middle" fill="#FF8C00" font-family="Bebas Neue, Impact, Arial Narrow, sans-serif" font-size="172" font-weight="700" letter-spacing="7">SMAT</text>
-  <path d="M138 334H374" stroke="#FF8C00" stroke-width="4" opacity="0.65"/>
-  <text x="256" y="376" text-anchor="middle" fill="#E8E8E8" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" letter-spacing="14">DESIGNS</text>
-</svg>

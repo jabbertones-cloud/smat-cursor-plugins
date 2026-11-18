@@ -21,4 +21,4 @@ Support: support@smatdesigns.com; source https://github.com/jabbertones-cloud/ww
 
 ## Publisher artwork
 
-The square publisher logo at assets/smat-publisher-logo.svg reproduces the public SMAT site wordmark text and colors (#FF8C00, #050505), without embedding font files. It is distinct from the AppDev Atlas product icon.
+The square publisher logo at assets/smat-publisher-logo.png is a lossless PNG conversion of the user-supplied 1080x1080 master in M2 Downloads (smat-designs-logo-master.jpg, SHA-256: 87335f03e25bf5a4bed5a8ec10dc564893d5712318531415047a8700e50a1d64). It is distinct from the AppDev Atlas product icon.
