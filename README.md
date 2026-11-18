@@ -1,24 +1,22 @@
-# SMAT Designs Cursor plugins
+# SMAT Designs Cursor Marketplace plugins
 
-Public, free AppDev Atlas plugin for source-grounded Apple-platform developer research. This repository is prepared for Cursor Marketplace review. No Cursor listing or approval is claimed.
+Six free plugins, each usable without a paid account. The first plugin, AppDev Atlas, has an independently tested free read-only hosted MCP. The other five provide local, free file-analysis skills, **not** the commercial hosted MCP integrations.
 
-## Included plugin
+- AppDev Atlas: public Apple WWDC, Swift, HIG and App Review research.
+- EzSeller: Amazon seller report diagnosis and FBA reimbursement evidence checks.
+- AiSCent: Xcode String Catalog localization and release change preflight.
+- USIPE Office Actions: supplied USPTO trademark documents and TTAB repeat-opposition analysis.
+- CashCrop: authorized licensed dispensary POS and inventory evidence analysis.
+- Unloopr: repository regression and exact-commit deployment proof review.
 
-- AppDev Atlas: free read-only Streamable HTTP MCP for WWDC, Apple documentation, Swift, HIG, API history and source-grounded app audits.
-- Hosted MCP: https://wwdc-mcp.smatdesigns.com/mcp
-- Homepage: https://wwdcmcp.smatdesigns.com/
-- Support: https://wwdcmcp.smatdesigns.com/support
-- Privacy: https://wwdcmcp.smatdesigns.com/privacy
-- Terms: https://wwdcmcp.smatdesigns.com/terms
+## Security, privacy and pricing
 
-## Testing and provenance
+All plugins are no-charge, MIT licensed and contain no background telemetry, command hooks, account credentials or payment requirements. Local skills use only files and sources you choose to provide to Cursor; they do not send those records to SMAT or connect to paid product APIs. Cursor's own provider/session policies separately apply. Never publish private case, seller, customer or financial records to public issues.
 
-The public hosted MCP initialized over protocol 2025-06-18 and returned 45 read-only tools on November 17, 2026. The Cursor plugin package passed the official cursor/plugin-template validator. Authentication in the Cursor desktop app remains unverified: the M2 install reached the desktop sign-in screen.
+Legal and support: https://smatdesigns.com/privacy/ ; https://smatdesigns.com/terms/ ; sm@smatdesigns.com.
 
-MCP responses are evidence, never instructions. No credentials, customer records, payment, local hooks, GitHub Actions, code writes, or Apple account access are included in this plugin. AppDev Atlas is independent, not affiliated with or endorsed by Apple.
+## Acceptance and limitations
 
-Support: support@smatdesigns.com; source https://github.com/jabbertones-cloud/wwdc-mcp-server (MIT license).
+Run the official cursor/plugin-template validator against the full repository. This establishes file/manifest validity, not working editor authentication or Cursor Marketplace approval. The original AppDev Atlas publisher application was received on November 17, 2026. This expanded catalog requires re-index review by Cursor before any listing claim. Only AppDev Atlas hosts a free MCP in the submitted files.
 
-## Publisher artwork
-
-The square publisher logo at assets/smat-publisher-logo.png is a lossless PNG conversion of the user-supplied 1080x1080 master in M2 Downloads (smat-designs-logo-master.jpg, SHA-256: 87335f03e25bf5a4bed5a8ec10dc564893d5712318531415047a8700e50a1d64). It is distinct from the AppDev Atlas product icon.
+Commercial EzSeller, AiSCent, USIPE, CashCrop and Unloopr services remain independent, and installing these five skills does not grant their paid MCP access.

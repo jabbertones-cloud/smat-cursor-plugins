@@ -1,0 +1,24 @@
+{
+  "name": "unloopr",
+  "displayName": "Unloopr",
+  "version": "0.2.0",
+  "description": "Free code diff, regression and release-proof review using local repositories and logs.",
+  "author": {
+    "name": "SMAT Designs",
+    "email": "sm@smatdesigns.com"
+  },
+  "homepage": "https://unloopr.com",
+  "repository": "https://github.com/jabbertones-cloud/smat-cursor-plugins",
+  "license": "MIT",
+  "keywords": [
+    "debugging",
+    "code-review",
+    "incident-analysis",
+    "regressions",
+    "ai-agents",
+    "local-files",
+    "free",
+    "cursor-skill"
+  ],
+  "logo": "assets/logo.png"
+}

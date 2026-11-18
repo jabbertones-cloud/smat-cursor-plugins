@@ -1,0 +1,24 @@
+{
+  "name": "usipe-office-actions",
+  "displayName": "USIPE Office Actions",
+  "version": "0.2.0",
+  "description": "Free USPTO trademark Office Action and public TTAB analysis using user-supplied documents.",
+  "author": {
+    "name": "SMAT Designs",
+    "email": "sm@smatdesigns.com"
+  },
+  "homepage": "https://usipe-mcp.smatdesigns.com",
+  "repository": "https://github.com/jabbertones-cloud/smat-cursor-plugins",
+  "license": "MIT",
+  "keywords": [
+    "uspto",
+    "trademark",
+    "office-actions",
+    "filing-deadlines",
+    "research",
+    "local-files",
+    "free",
+    "cursor-skill"
+  ],
+  "logo": "assets/logo.png"
+}

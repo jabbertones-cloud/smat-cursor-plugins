@@ -1,0 +1,24 @@
+{
+  "name": "cashcrop",
+  "displayName": "CashCrop",
+  "version": "0.2.0",
+  "description": "Free licensed-dispensary inventory and margin analysis using authorized local POS exports.",
+  "author": {
+    "name": "SMAT Designs",
+    "email": "sm@smatdesigns.com"
+  },
+  "homepage": "https://cashcrop.smatdesigns.com",
+  "repository": "https://github.com/jabbertones-cloud/smat-cursor-plugins",
+  "license": "MIT",
+  "keywords": [
+    "dutchie",
+    "dispensary",
+    "analytics",
+    "inventory",
+    "margins",
+    "local-files",
+    "free",
+    "cursor-skill"
+  ],
+  "logo": "assets/logo.png"
+}

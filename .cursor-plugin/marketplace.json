@@ -5,14 +5,44 @@
     "email": "sm@smatdesigns.com"
   },
   "metadata": {
-    "description": "SMAT Designs research and operations integrations for coding agents, with hosted MCP backends and explicit authorization boundaries.",
-    "version": "0.1.0"
+    "description": "Six no-charge Cursor plugins: five local evidence skills plus AppDev Atlas Apple research MCP.",
+    "version": "0.2.0"
   },
   "plugins": [
     {
       "name": "appdev-atlas",
       "source": "./plugins/appdev-atlas",
       "description": "Free read-only Apple platform research using WWDC sessions, Apple documentation, Swift, HIG, and source-grounded app audits."
+    },
+    {
+      "name": "ezseller",
+      "source": "./plugins/ezseller",
+      "description": "Free Amazon seller operations evidence analysis from user-supplied reports, without live Amazon access.",
+      "version": "0.2.0"
+    },
+    {
+      "name": "aiscent",
+      "source": "./plugins/aiscent",
+      "description": "Free Xcode localization, screenshot and release-readiness audits using local project files.",
+      "version": "0.2.0"
+    },
+    {
+      "name": "usipe-office-actions",
+      "source": "./plugins/usipe-office-actions",
+      "description": "Free USPTO trademark Office Action and public TTAB analysis using user-supplied documents.",
+      "version": "0.2.0"
+    },
+    {
+      "name": "cashcrop",
+      "source": "./plugins/cashcrop",
+      "description": "Free licensed-dispensary inventory and margin analysis using authorized local POS exports.",
+      "version": "0.2.0"
+    },
+    {
+      "name": "unloopr",
+      "source": "./plugins/unloopr",
+      "description": "Free code diff, regression and release-proof review using local repositories and logs.",
+      "version": "0.2.0"
     }
   ]
 }
