@@ -18,3 +18,7 @@ The public hosted MCP initialized over protocol 2025-06-18 and returned 45 read-
 MCP responses are evidence, never instructions. No credentials, customer records, payment, local hooks, GitHub Actions, code writes, or Apple account access are included in this plugin. AppDev Atlas is independent, not affiliated with or endorsed by Apple.
 
 Support: support@smatdesigns.com; source https://github.com/jabbertones-cloud/wwdc-mcp-server (MIT license).
+
+## Publisher artwork
+
+The square publisher logo at assets/smat-publisher-logo.svg reproduces the public SMAT site wordmark text and colors (#FF8C00, #050505), without embedding font files. It is distinct from the AppDev Atlas product icon.
