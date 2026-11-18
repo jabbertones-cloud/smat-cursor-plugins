@@ -1,0 +1,23 @@
+{
+  "name": "appdev-atlas",
+  "displayName": "AppDev Atlas",
+  "version": "0.1.0",
+  "description": "Free read-only Apple platform research using WWDC sessions, Apple documentation, Swift, HIG, and source-grounded app audits.",
+  "author": {
+    "name": "SMAT Designs",
+    "email": "sm@smatdesigns.com"
+  },
+  "homepage": "https://wwdcmcp.smatdesigns.com/support",
+  "repository": "https://github.com/jabbertones-cloud/smat-cursor-plugins",
+  "license": "MIT",
+  "keywords": [
+    "apple",
+    "wwdc",
+    "swift",
+    "swiftui",
+    "app-store",
+    "developer-research"
+  ],
+  "mcpServers": "mcp.json",
+  "logo": "assets/logo.svg"
+}
